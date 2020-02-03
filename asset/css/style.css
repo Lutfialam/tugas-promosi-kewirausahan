@@ -1,0 +1,62 @@
+.back-nav {
+    background-image: url('../img/header-tlj.png');
+    background-size: cover;
+    width: 1300px;
+    height: 700px;
+    margin-top: -50px;
+    margin-right: 0;
+}
+
+.img-header {
+    width: 400px;
+    height: 350px;
+}
+
+.row-header {
+    margin-top: -550px;
+}
+
+.span-header {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.footer-home {
+    background-image: url('../img/dekstop_login.png');
+    background-size: cover;
+    margin-top: 50px;
+    width: 1290px;
+    height: 420px;
+}
+
+.img-voip {
+    margin-top: -50px;
+    margin-left: 20px;
+}
+
+.img-broadcast {
+    margin-top: 10px;
+}
+
+.img-clean {
+    width: 350px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.section-pembahasan {
+    margin-top: -60px;
+}
+
+.justify-p {
+    text-align: justify;
+}
+
+.unit {
+    margin-left: 50px;
+}
+
+.left-aligment-plus {
+    margin-left: 140px;
+}
